@@ -1,5 +1,5 @@
 <?php
 
-echo "Hello WHeroku!";
+echo "Hello Heroku!";
 
 ?>
